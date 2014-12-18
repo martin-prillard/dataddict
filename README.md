@@ -8,7 +8,7 @@ Business case : 9 hours only, Python and D3js (Scholar project, 2014)
 Déterminer les villes pour lesquelles la construction de logements serait pertinente pour des jeunes cadres dynamiques.
 
 #### Qualité de vie :
-* Loisirs & Culture (Insee, 2011) 
+* Loisirs & culture (Insee, 2011) 
 
 #### Dynamisme économique :
 * Nombre d’entreprises existantes (Insee, 2013)
